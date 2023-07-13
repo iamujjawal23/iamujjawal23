@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @iamujjawal23
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me on my instagram handle iamujjawal23
-  
 <h1 align="center">Hi 👋, I'm Ujjawal Tiwari</h1>
 
 # 💫 About Me:
