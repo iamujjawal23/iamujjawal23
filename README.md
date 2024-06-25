@@ -2,7 +2,7 @@
 
 # 💫 About Me:
  🔭  I’m interested in learning new things.<br/>
- 🌱  I’m currently learning java.<br/>
+ 🌱  I’m currently learning c++.<br/>
  🔍 I am Looking for Machine Learning Resources.<br/>
  🤔 I’m looking to collaborate on new projects <br/>
  💬 Ask me About  Data structure and Algorithms, Front end Development <br/>
